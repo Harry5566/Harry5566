@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I’m Lu, a student at CYCU University<br>I really enjoy learning programming<br>and I’m on my way to becoming a frontend engineer 🚀</h2>
+<h2 align="left">Hi 👋! I’m Lu, a student at CYCU University</h2>
+<h3>I really enjoy learning programming<br>and I’m on my way to becoming a frontend engineer 🚀</h3>
 
 ###
 
